@@ -10,7 +10,7 @@
 	<name>SpringExamples</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
-		<!-- Spring framework -->
+		<!-- Spring framework in java-->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring</artifactId>
